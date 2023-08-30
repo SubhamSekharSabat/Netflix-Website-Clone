@@ -1,7 +1,7 @@
 # Netflix-Website-Clone
 I made this netflix website clone by using HTML and CSS in Visual Studio Code IDE
 ![logo](https://github.com/SubhamSekharSabat/Netflix-Website-Clone/assets/142106890/0c02d414-fb13-4e0e-8d27-0c5fabf282ef)
-![header-image](https://github.com/SubhamSekharSabat/Netflix-Website-Clone/assets/142106890/cdf74732-49eb-4d3b-9c88-25e8167d7439)
+![header-image](https://github.com/SubhamSekharSabat/Netflix-Website-Clone/assets/142106890/af35c04f-a276-444a-b68c-8cf10accf4e4)
 ![feature-1](https://github.com/SubhamSekharSabat/Netflix-Website-Clone/assets/142106890/c624befd-e065-4858-957b-4e6df2d27155)
 ![feature-2](https://github.com/SubhamSekharSabat/Netflix-Website-Clone/assets/142106890/ef524ec6-35fa-4393-93fc-9f2f978693db)
 ![feature-3](https://github.com/SubhamSekharSabat/Netflix-Website-Clone/assets/142106890/d103a194-aa22-40d9-93ac-2a8af4838e89)
